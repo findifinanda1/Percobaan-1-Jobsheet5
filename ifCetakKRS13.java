@@ -19,7 +19,7 @@ public class ifCetakKRS13 {
         // 🔹 Versi Ternary Operator (Transformasi dari IF-ELSE)
         String hasil = uktLunas
             ? "Pembayaran UKT terverifikasi.\nSilahkan cetak KRS dan minta tanda tangan DPA."
-            : "Registrasi ditolak. Silakan lunasi UKT terlebih dahulu.";
+            : "Registrasi ditolak.Silakan lunasi UKT terlebih dahulu.";
 
         System.out.println("\n=== Versi Ternary Operator ===");
         System.out.println(hasil);
